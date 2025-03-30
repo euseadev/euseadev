@@ -46,6 +46,8 @@
 ###
 
 <div align="center">
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/nuxtjs/nuxtjs-original-wordmark.svg" height="30" alt="nuxt logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discordjs/discordjs-original.svg" height="40" alt="discordjs logo"  />
