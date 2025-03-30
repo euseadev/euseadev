@@ -17,6 +17,7 @@
 ###
 
 <div align="center">
+    <h2 align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&pause=1000&color=27ff00&background=69FF2000&center=true&repeat=false&vCenter=true&width=435&lines=Skill's" alt="Typing SVG" /></h2>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
@@ -75,6 +76,7 @@
 ###
 
 <div align="center">
+  <h2 align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&pause=1000&color=50428a&background=69FF2000&center=true&repeat=false&vCenter=true&width=435&lines=Contact" alt="Typing SVG" /></h2>
   <a href="https://discord.com/users/1348516927101730947" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   </a>
