@@ -10,7 +10,8 @@
 ###
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/euseadev/count.svg?"  />
+  <h2 align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&pause=1000&color=F0FF32&background=69FF2000&center=true&repeat=false&vCenter=true&width=435&lines=Profile+Stat's" alt="Typing SVG" /></h2>
+  <img src="https://count.getloli.com/get/@eusea?theme=rule35"  />
 </div>
 
 ###
