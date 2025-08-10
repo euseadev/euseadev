@@ -66,14 +66,3 @@
 
 ###
 
-<div align="center">
-  <h2 align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&pause=1000&color=50428a&background=69FF2000&center=true&repeat=false&vCenter=true&width=435&lines=Contact" alt="Typing SVG" /></h2>
-  <a href="https://discord.com/users/1348516927101730947" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  </a>
-  <a href="https://instagram.com/euseadev" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
-</div>
-
-
