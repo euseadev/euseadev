@@ -3,6 +3,11 @@
   <img src="https://count.getloli.com/get/@eusea?theme=rule35"  />
 </div>
 
+
+### 📈 &nbsp;Most Used Languages
+
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hanzydev&theme=react)
+
 ###
 
 <div align="center">
