@@ -4,7 +4,7 @@
   
   ### 📈 &nbsp;Most Used Languages
 
-  ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hanzydev&theme=react)
+  ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=euseadev&theme=react)
 
   ###
 </div>
