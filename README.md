@@ -1,6 +1,7 @@
 <div align="center">
   <h2 align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&pause=1000&color=F0FF32&background=69FF2000&center=true&repeat=false&vCenter=true&width=435&lines=Profile+Views" alt="Typing SVG" /></h2>
   <img src="https://count.getloli.com/get/@eusea?theme=rule35"  />
+  
   ### 📈 &nbsp;Most Used Languages
 
   ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hanzydev&theme=react)
