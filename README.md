@@ -9,6 +9,7 @@
   ###
 </div>
 
+[![Discord Presence](https://lanyard.cnrad.dev/api/1348516927101730947)](https://discord.com/users/1348516927101730947)
 
 
 
